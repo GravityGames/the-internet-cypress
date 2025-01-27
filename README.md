@@ -4,3 +4,4 @@ This is a repository of automated Test Cases for the-internet.herokuapp.com (an 
 ## Automated Tests:
 - Add/Remove Elements
 - Broken Images
+- Challenging DOM (WIP)
